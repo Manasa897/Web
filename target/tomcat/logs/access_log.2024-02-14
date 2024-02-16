@@ -14,3 +14,13 @@
 0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:12:28 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-3 1144
 0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:12:50 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-4 0
 0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:12:50 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:31:41 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:31:42 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-9 80
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:32:36 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:14:32:36 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-3 127
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:17:20:17 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:17:20:18 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-3 310
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:17:20:37 -0600] "POST /javax-servlets/bmi HTTP/1.1" 400 968 http-bio-8080-exec-4 173
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:17:21:32 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:17:21:32 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-3 111
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:17:21:54 -0600] "POST /javax-servlets/bmi HTTP/1.1" 200 164 http-bio-8080-exec-4 969

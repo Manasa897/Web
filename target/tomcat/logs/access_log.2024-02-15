@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:16:06:34 -0600] "GET /javax-servlets HTTP/1.1" 302 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:16:06:35 -0600] "GET /javax-servlets/ HTTP/1.1" 200 372 http-bio-8080-exec-8 380
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:16:06:55 -0600] "POST /javax-servlets/bmi HTTP/1.1" 200 163 http-bio-8080-exec-9 182
+0:0:0:0:0:0:0:1 - - [15/Feb/2024:16:07:34 -0600] "GET /javax-servlets/bmi HTTP/1.1" 405 1045 http-bio-8080-exec-10 790
